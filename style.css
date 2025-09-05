@@ -24,7 +24,7 @@ nav {
   align-items: center;
   justify-content: space-around;
   height: 60px;
-  background-color: rgb(63, 63, 180);
+  background-color: rgb(68, 68, 233);
 }
 nav ul {
   display: flex;
@@ -147,57 +147,57 @@ footer {
   .left {
     font-size: 24px;
   }
-  
+
   nav {
     flex-direction: column;
     height: auto;
     padding: 10px 0;
   }
-  
+
   nav ul {
     flex-direction: column;
     width: 100%;
     margin-top: 10px;
   }
-  
+
   nav ul li {
     margin: 10px 0;
     text-align: center;
   }
-  
+
   .firstsection {
     flex-direction: column;
     margin: 50px 0;
     text-align: center;
   }
-  
+
   .firstsection > div {
     width: 90%;
     margin: 20px auto;
   }
-  
+
   .leftsection {
     font-size: 2rem;
   }
-  
+
   .buttons {
     display: flex;
     flex-direction: column;
     gap: 10px;
     align-items: center;
   }
-  
+
   .secondsection {
     height: auto;
   }
-  
+
   .secondsection .box {
     flex-direction: column;
     height: auto;
     margin: 30px 0;
     background: none;
   }
-  
+
   .secondsection .vertical {
     position: relative;
     margin: 20px auto;
@@ -207,14 +207,14 @@ footer {
     padding: 20px;
     border-bottom: 1px solid white;
   }
-  
+
   .vertical-title {
     position: static;
     text-align: left;
     width: 100%;
     margin-bottom: 10px;
   }
-  
+
   .vertical-desc {
     position: static;
     text-align: left;
@@ -222,28 +222,28 @@ footer {
     font-size: 12px;
     margin-top: 5px;
   }
-  
+
   .image-top {
     position: static;
     width: 30px;
     margin-bottom: 10px;
   }
-  
+
   .footer {
     flex-direction: column;
     padding: 23px 20px;
     text-align: center;
   }
-  
+
   .footer > div {
     margin: 15px 0;
     width: 100%;
   }
-  
+
   .footer ul {
     margin: 10px 0;
   }
-  
+
   .footer ul li {
     margin: 8px 0;
   }
@@ -253,15 +253,15 @@ footer {
   .left {
     font-size: 20px;
   }
-  
+
   .leftsection {
     font-size: 1.8rem;
   }
-  
+
   .secondsection h1 {
     font-size: 2rem;
   }
-  
+
   .vertical-desc {
     font-size: 8px;
     width: 200px;
